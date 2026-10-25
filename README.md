@@ -34,5 +34,3 @@ However, I want these 12 weeks to make a meaningful difference in my understandi
 I am hopeful that the program will open my mind to new possibilities and help me see that, even as a beginner, I can gradually develop the skills needed to work in this field. I want to finish the program feeling more knowledgeable, more confident, and better prepared to take the next step toward my career goals.
 
 By the end of these 12 weeks, my goal is to move from having little to no knowledge of Data Science, AI, and Machine Learning to possessing a foundational understanding of these fields and a clear direction for continuing my learning journey and building a career in data.
-
-Make the reflection more personalReduce repeated hopes and goals
